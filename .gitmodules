@@ -1,0 +1,6 @@
+[submodule "bbb-chat"]
+	path = bbb-chat
+	url = https://github.com/myOmikron/bbb-chat
+[submodule "xmpp-chat"]
+	path = xmpp-chat
+	url = https://github.com/myOmikron/xmpp-chat
