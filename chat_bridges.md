@@ -11,13 +11,13 @@ The common parameter `chat_id` is a string and its format depends on the used ch
 - On **BBB** it's the **internal meeting id**
 - On **XMPP** it's the **room's jid**
 
-### running
+### runningChats
 
 - Method: `GET`
 
 Get a list of all running chats.
 
-### start
+### startChat
 
 - Method: `POST`
 
@@ -31,7 +31,7 @@ callback_id     | No       | str  | Only required when callbacks should be enabl
 
 Register a chat and start its listener/ handler.
 
-### send
+### sendMessage
 
 - Method: `POST`
 
@@ -43,7 +43,7 @@ user_name  | Yes      | str  | Username from which the message was sent
 
 Send a user's message to the chat.
 
-### end
+### endChat
 
 - Method: `POST`
 
