@@ -7,3 +7,6 @@
 [submodule "bbb-live"]
 	path = bbb-live
 	url = https://github.com/myOmikron/bbb-live
+[submodule "bbb-observer"]
+	path = bbb-observer
+	url = https://github.com/myOmikron/bbb-observer
