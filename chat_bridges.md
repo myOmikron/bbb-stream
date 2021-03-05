@@ -17,6 +17,11 @@ The common parameter `chat_id` is a string and its format depends on the used ch
 
 Get a list of all running chats.
 
+The response is a json object with the attributes `count` and `chat_ids`.
+
+- `count: list` is the number of running chat
+- `chat_ids: list[str]` is a list of the running chat's ids
+
 ### startChat
 
 - Method: `POST`
