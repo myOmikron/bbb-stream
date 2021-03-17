@@ -13,3 +13,6 @@
 [submodule "bbb-frontend"]
 	path = bbb-frontend
 	url = https://github.com/myOmikron/bbb-frontend
+[submodule "bbb-controller"]
+	path = bbb-controller
+	url = https://github.com/myOmikron/bbb-controller
