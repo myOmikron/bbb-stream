@@ -10,3 +10,6 @@
 [submodule "bbb-observer"]
 	path = bbb-observer
 	url = https://github.com/myOmikron/bbb-observer
+[submodule "bbb-frontend"]
+	path = bbb-frontend
+	url = https://github.com/myOmikron/bbb-frontend
