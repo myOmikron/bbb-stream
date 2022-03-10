@@ -1,9 +1,6 @@
 [submodule "bbb-chat"]
 	path = bbb-chat
 	url = https://github.com/myOmikron/bbb-chat
-[submodule "xmpp-chat"]
-	path = xmpp-chat
-	url = https://github.com/myOmikron/xmpp-chat
 [submodule "bbb-live"]
 	path = bbb-live
 	url = https://github.com/myOmikron/bbb-live
@@ -16,3 +13,10 @@
 [submodule "bbb-controller"]
 	path = bbb-controller
 	url = https://github.com/myOmikron/bbb-controller
+[submodule "bbb-edge-stream"]
+	path = bbb-edge-stream
+	url = https://github.com/myOmikron/bbb-edge-stream
+[submodule "bbb-stream-chat"]
+	path = bbb-stream-chat
+	url = https://github.com/myOmikron/bbb-stream-chat
+
